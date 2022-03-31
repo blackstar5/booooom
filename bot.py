@@ -5,7 +5,7 @@ import requests
 import time
 
 
-bot = Bot("dpzejhjfmpvzpfwrxgzfcsnkdylkwtwk")
+bot = Bot("pydroid 3", auth="dpzejhjfmpvzpfwrxgzfcsnkdylkwtwk")
 target = "g0BagzI0b064201b68b51b9bdb428df7"
 
 def hasInsult(msg):
